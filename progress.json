@@ -426,5 +426,14 @@
       "Remote branch S-to-Z is missing."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-rename",
+    "started_at": 1788452562.066885,
+    "completed_at": 1788452564.318597,
+    "comments": [
+      "Nice work renaming the branch locally and on the remote!"
+    ],
+    "status": "Completed"
   }
 ]
